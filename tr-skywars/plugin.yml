@@ -1,0 +1,12 @@
+name: SkyWars
+version: 1.0
+description: Mini-jeux SkyWars
+author: Amosar
+depend: [Vault]
+
+main: com.trafalcraft.SkyWars.Main
+
+commands:
+   skywars:
+     description: Base command for the SkyWars plugin.
+     aliases: [sw]
